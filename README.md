@@ -9,16 +9,19 @@ Focused on:
 - Algorithms and data structures
 - Low-level development
 
-## Projects
+## 42 Projects
 
 - minishell
 - philosophers
 - push_swap
 - minitalk
+- ft_printf
+- libft
+
+## Other Projects
+
 - so_long
 - Born2beroot
-- ft_printf
 - Get_next_line
-- libft
 
 📍 Lisbon, Portugal
